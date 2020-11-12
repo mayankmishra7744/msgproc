@@ -1,0 +1,7 @@
+After Unzipping there will be msgproc/Q1 and msgproc/Q2 , Code of question 1 and Question 2 respectively.
+Goto msgproc/Q1 and execute build.sh (sh build.sh). It will compile and create binaries of server and client.
+open another terminal and execute server (./serv). From different terminal execute client (./client infile1.txt , ./client infile2.txt).
+ctrl+c needs to be pressed to end the server when all clients are terminated.Server will create dump.txt and Outfile.txt
+input files  are also given with the code as (infile1.txt,infile2.txt).
+Same steps needs to be followd for msgproc/Q2 too.
+
